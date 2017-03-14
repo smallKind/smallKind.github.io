@@ -1,0 +1,39 @@
+# Site settings
+name: 小样
+email: xiang.zhou.fly@gmail.com
+author: smallkind
+url: http://smallkind.github.io
+#resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/smallkind
+baseurl: ""
+description: 再牛逼的梦想,也抵达不住傻逼式的坚持
+meta_description: 学如逆水行舟,不进则退
+motto: 学如逆水行舟,不进则退
+banner: 学而不思则罔，思而不学则殆。
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+github_username: smallkind
+highlighter: Pygments
+
+# Build settings
+markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
+FB:
+  comments :
+    provider : duoshuo
+    duoshuo:
+        short_name : smallkind
+    # disqus :
+    #    short_name : freudkang
+    # facebook :
+    #   appid : 123
+    #   num_posts: 5
+    #   width: 580
+    #   colorscheme: light
