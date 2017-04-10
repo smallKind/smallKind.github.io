@@ -28,7 +28,7 @@ permalink: /plan/
 
 ### 框架基础
 
-1. spring-boot,mybatis注解学习运用 [2017/3/25 - 2017/4/1]
+1. spring-boot,mybatis注解学习运用 [2017/3/25 - 2017/4/1](已完成)
 
 2. 动手实现IOC,AOP原理
 
