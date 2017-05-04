@@ -2,3 +2,6 @@ _site
 .sass-cache
 .idea
 LessOrMore.iml
+_posts/config
+_posts/dataStructures
+_posts/designPatterns
