@@ -18,7 +18,7 @@ permalink: /plan/
 
 ### 语言基础
 
-1. 学习Java 1.8新特性 [2017/3/25 - 2017/4/1]
+1. 学习Java 1.8新特性
 
 2. 集合,并发,NIO,RMI源码分析理解
 
@@ -28,7 +28,7 @@ permalink: /plan/
 
 ### 框架基础
 
-1. spring-boot,mybatis注解学习运用 [2017/3/25 - 2017/4/1](已完成)
+1. spring-boot,mybatis注解学习运用
 
 2. 动手实现IOC,AOP原理
 
