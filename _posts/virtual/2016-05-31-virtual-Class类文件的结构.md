@@ -3,7 +3,7 @@ layout: post
 title: Class类文件结构
 date: 2016-05-31 22:00:01 +8000
 category: JVM
-tags: Class类文件结构
+tags: jvm
 ---
 
 * content

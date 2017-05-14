@@ -3,7 +3,7 @@ layout: post
 title: Java内存区域和内存溢出异常
 date: 2016-05-29 22:00:01 +8000
 category: JVM
-tags: 内存区域
+tags: jvm
 ---
 
 * content
