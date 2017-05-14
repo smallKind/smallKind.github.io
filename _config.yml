@@ -25,11 +25,11 @@ markdown: kramdown
 
 baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
-FB:
-  comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : smallkind
+# FB:
+  # comments :
+    # provider : duoshuo
+    # duoshuo:
+    #    short_name : smallkind
     # disqus :
     #    short_name : freudkang
     # facebook :

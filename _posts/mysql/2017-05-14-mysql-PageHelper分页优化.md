@@ -6,6 +6,9 @@ category: MySQL
 tags: 性能优化
 ---
 
+* content
+{:toc}
+
 ### 问题原由
 
 项目采用PageHelper插件分页，但因数据量大的时候，分页的性能不理想，所以进行分页性能的优化。
