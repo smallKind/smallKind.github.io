@@ -15,6 +15,8 @@ tags: 学习资料
 
 [Spring Boot Reference Guide](http://docs.spring.io/spring-boot/docs/1.5.2.RELEASE/reference/htmlsingle/)
 
+[common-application-properties](http://docs.spring.io/spring-boot/docs/1.2.3.RELEASE/reference/html/common-application-properties.html)
+
 ### spring cloud 相关资料
 
 [spring cloud教程](http://blog.didispace.com/springcloud1/)
