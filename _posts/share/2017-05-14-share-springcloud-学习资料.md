@@ -17,6 +17,8 @@ tags: 学习资料
 
 [common-application-properties](http://docs.spring.io/spring-boot/docs/1.2.3.RELEASE/reference/html/common-application-properties.html)
 
+[spring boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
+
 ### spring cloud 相关资料
 
 [spring cloud教程](http://blog.didispace.com/springcloud1/)
