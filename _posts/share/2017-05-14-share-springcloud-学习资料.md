@@ -19,6 +19,10 @@ tags: 学习资料
 
 [spring boot基础教程](http://blog.didispace.com/Spring-Boot%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B/)
 
+[spring boot基础教程-github](https://github.com/dyc87112/SpringBoot-Learning)
+
+[spring boot学习案例](https://git.oschina.net/jeff1993/springboot-learning-example)
+
 [spring boot参考指南](http://www.kailing.pub/PdfReader/web/viewer.html?file=springboot)
 
 ### spring cloud 相关资料
