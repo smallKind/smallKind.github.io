@@ -25,6 +25,8 @@ tags: 学习资料
 
 [spring boot参考指南](http://www.kailing.pub/PdfReader/web/viewer.html?file=springboot)
 
+[spring boot starters](https://github.com/spring-projects/spring-boot/tree/master/spring-boot-starters)
+
 ### spring cloud 相关资料
 
 [spring cloud教程](http://blog.didispace.com/Spring-Cloud基础教程/)
