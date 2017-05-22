@@ -27,7 +27,7 @@ tags: 学习资料
 
 ### spring cloud 相关资料
 
-[spring cloud教程](http://blog.didispace.com/springcloud1/)
+[spring cloud教程](http://blog.didispace.com/Spring-Cloud基础教程/)
 
 [spring cloud官方文档中文](https://springcloud.cc)
 
